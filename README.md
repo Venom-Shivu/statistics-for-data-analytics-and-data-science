@@ -451,26 +451,6 @@ Subscribe for:
 * Data Science concepts
 * Statistical problem-solving
 
----
-
-# 🌐 Connect With Tech With Shivansh
-
-<div align="center">
-
-<a href="https://youtube.com/@Techie-Shivansh">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-<a href="https://github.com/Venom-Shivu">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://t.me/TechyShivansh">
-  <img src="https://img.shields.io/badge/Telegram-Join_Community-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-<a href="https://www.linkedin.com/in/the-venom">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-</div>
 
 -----
 
